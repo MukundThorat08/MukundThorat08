@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mukund Thorat</h1>
-<h3 align="center">Just Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundthorat08&label=Profile%20views&color=0e75b6&style=flat" alt="mukundthorat08" /> </p>
 
